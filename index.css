@@ -5,7 +5,7 @@ body {
 #shift {
 	display: block;
 	position: absolute;
-	top: 19.5em;
+	top: 17em;
 	left: 1em;
 	width: 5em;
 }
@@ -13,7 +13,7 @@ body {
 #shuffle {
 	display: block;
 	position: absolute;
-	top: 18em;
+	top: 16em;
 	right: 1em;
 	width: 5em;
 }
